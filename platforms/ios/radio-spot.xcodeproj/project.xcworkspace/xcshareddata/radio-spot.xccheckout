@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>840292DD-920C-43AB-B406-C41D5FF6CC3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>radio-spot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</key>
+		<string>https://github.com/arunr/radio-spot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/radio-spot.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arunr/radio-spot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>radio-spot</string>
+		</dict>
+	</array>
+</dict>
+</plist>
