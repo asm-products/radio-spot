@@ -10,14 +10,14 @@
 	<string>radio-spot</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</key>
+		<key>4496FABAC9680BDC37715BC9B0D0EC90FA140001</key>
 		<string>https://github.com/arunr/radio-spot.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>platforms/ios/radio-spot.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</key>
+		<key>4496FABAC9680BDC37715BC9B0D0EC90FA140001</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</string>
+	<string>4496FABAC9680BDC37715BC9B0D0EC90FA140001</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BB9D0BE77CDB9744CF59DC8EF8262CEFD0E70C29</string>
+			<string>4496FABAC9680BDC37715BC9B0D0EC90FA140001</string>
 			<key>IDESourceControlWCCName</key>
 			<string>radio-spot</string>
 		</dict>
